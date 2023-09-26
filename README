@@ -1,0 +1,5 @@
+Este proyecto... Está compuesto por un documento HTML que define la estructura de la calculadora, un archivo CSS llamado "style.css" para el estilo visual, y un archivo JavaScript llamado "script.js" para gestionar las operaciones de la calculadora.
+
+La calculadora tiene una pantalla de visualización de números en la parte superior y un conjunto de botones debajo de la pantalla. Los botones incluyen números del 0 al 9, botones de operadores como suma, resta, multiplicación y división, así como botones para funciones especiales como borrar un dígito, borrar todo (AC), calcular el porcentaje (%), y el botón de igual (=) para realizar cálculos.
+
+En resumen, este proyecto es una calculadora web que permite a los usuarios realizar operaciones matemáticas básicas en línea. El código HTML proporciona la estructura, el archivo CSS maneja el estilo visual y el archivo JavaScript se encarga de la lógica de la calculadora.
